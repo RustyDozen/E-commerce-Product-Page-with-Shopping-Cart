@@ -32,6 +32,7 @@ A fully functional and interactive e-commerce product page showcasing products w
 - **JavaScript**: Managing interactivity and shopping cart functionality.
 
 ---
+```bash
 ecommerce-product-page/
 ├── index.html          # Main HTML file
 ├── styles.css          # Styling for the project
