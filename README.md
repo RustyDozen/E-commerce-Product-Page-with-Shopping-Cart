@@ -37,7 +37,7 @@ A fully functional and interactive e-commerce product page showcasing products w
 
 1. Clone the repository:
    ```bash
-   https://github.com/RustyDozen/E-commerce-Product-Page-with-Shopping-Cart.git
+   git clone https://github.com/RustyDozen/E-commerce-Product-Page-with-Shopping-Cart.git
 2. Navigate to the project folder:
     ```bash
    cd ecommerce-product-page
