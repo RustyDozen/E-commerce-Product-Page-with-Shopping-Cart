@@ -43,6 +43,8 @@ A fully functional and interactive e-commerce product page showcasing products w
    cd ecommerce-product-page
 4. Open the index.html file in your browser to view the project.
 
+---
+
 ## **File Structure**
 ```bash
    ecommerce-product-page/
@@ -50,12 +52,24 @@ A fully functional and interactive e-commerce product page showcasing products w
 ├── styles.css          # Styling for the project
 └── script.js           # JavaScript functionality
 ```
+
+---
+
 ## **Future Enhancements**
 
 - Add a search and filter functionality.
 - Integrate a backend to manage product data dynamically.
 - Enhance cart persistence with a mock or real database.
 
+---
+
 ## **License**
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to use and modify this project. Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+Happy Coding! 😊
+
