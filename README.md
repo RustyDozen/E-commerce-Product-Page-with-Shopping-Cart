@@ -32,16 +32,3 @@ A fully functional and interactive e-commerce product page showcasing products w
 - **JavaScript**: Managing interactivity and shopping cart functionality.
 
 ---
-
-## **Installation and Usage**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RustyDozen/E-commerce-Product-Page-with-Shopping-Cart.git
-   cd ecommerce-product-page
-ecommerce-product-page/
-├── index.html          # Main HTML file
-├── styles.css          # Styling for the project
-├── script.js           # JavaScript functionality
-└── assets/             # Folder for images and other resources
-
