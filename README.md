@@ -83,12 +83,12 @@ A fully functional and interactive e-commerce product page showcasing products w
 4. Open the index.html file in your browser to view the project.
 
 ## **File Structure**
-   ```bash
+```bash
    ecommerce-product-page/
 ├── index.html          # Main HTML file
 ├── styles.css          # Styling for the project
 └── script.js           # JavaScript functionality
-
+```
 ## **Future Enhancements**
 
 - Add a search and filter functionality.
